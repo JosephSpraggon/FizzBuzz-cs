@@ -1,0 +1,4 @@
+/Users/joespraggon/Projects/FizzBuzz-cs/FizzBuzzTests/obj/Debug/netcoreapp3.1/FizzBuzzTests.csprojAssemblyReference.cache
+/Users/joespraggon/Projects/FizzBuzz-cs/FizzBuzzTests/obj/Debug/netcoreapp3.1/FizzBuzzTests.AssemblyInfoInputs.cache
+/Users/joespraggon/Projects/FizzBuzz-cs/FizzBuzzTests/obj/Debug/netcoreapp3.1/FizzBuzzTests.AssemblyInfo.cs
+/Users/joespraggon/Projects/FizzBuzz-cs/FizzBuzzTests/obj/Debug/netcoreapp3.1/FizzBuzzTests.csproj.CoreCompileInputs.cache

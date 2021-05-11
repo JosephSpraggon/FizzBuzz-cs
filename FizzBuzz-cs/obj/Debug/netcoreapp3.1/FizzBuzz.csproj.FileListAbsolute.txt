@@ -1,0 +1,11 @@
+/Users/joespraggon/Projects/FizzBuzz-cs/FizzBuzz-cs/bin/Debug/netcoreapp3.1/FizzBuzz.deps.json
+/Users/joespraggon/Projects/FizzBuzz-cs/FizzBuzz-cs/bin/Debug/netcoreapp3.1/FizzBuzz.runtimeconfig.json
+/Users/joespraggon/Projects/FizzBuzz-cs/FizzBuzz-cs/bin/Debug/netcoreapp3.1/FizzBuzz.runtimeconfig.dev.json
+/Users/joespraggon/Projects/FizzBuzz-cs/FizzBuzz-cs/bin/Debug/netcoreapp3.1/FizzBuzz.dll
+/Users/joespraggon/Projects/FizzBuzz-cs/FizzBuzz-cs/bin/Debug/netcoreapp3.1/FizzBuzz.pdb
+/Users/joespraggon/Projects/FizzBuzz-cs/FizzBuzz-cs/obj/Debug/netcoreapp3.1/FizzBuzz.AssemblyInfoInputs.cache
+/Users/joespraggon/Projects/FizzBuzz-cs/FizzBuzz-cs/obj/Debug/netcoreapp3.1/FizzBuzz.AssemblyInfo.cs
+/Users/joespraggon/Projects/FizzBuzz-cs/FizzBuzz-cs/obj/Debug/netcoreapp3.1/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/joespraggon/Projects/FizzBuzz-cs/FizzBuzz-cs/obj/Debug/netcoreapp3.1/FizzBuzz.dll
+/Users/joespraggon/Projects/FizzBuzz-cs/FizzBuzz-cs/obj/Debug/netcoreapp3.1/FizzBuzz.pdb
+/Users/joespraggon/Projects/FizzBuzz-cs/FizzBuzz-cs/obj/Debug/netcoreapp3.1/FizzBuzz.genruntimeconfig.cache
